@@ -14909,11 +14909,11 @@
   },
   {
     "type": "variable",
-    "named": true
+    "named": false
   },
   {
     "type": "variable",
-    "named": false
+    "named": true
   },
   {
     "type": "vue",
@@ -14933,6 +14933,10 @@
   },
   {
     "type": "yaml",
+    "named": false
+  },
+  {
+    "type": "zig",
     "named": false
   },
   {

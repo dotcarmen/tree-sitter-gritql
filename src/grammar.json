@@ -5933,6 +5933,10 @@
         {
           "type": "STRING",
           "value": "vue"
+        },
+        {
+          "type": "STRING",
+          "value": "zig"
         }
       ]
     },
